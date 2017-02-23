@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-6bb437704a17b924d43d474ad4a84fa5b71d4a8e.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-8afbad08cfc62cccb8dbbaf13ab26d41d12b91e3.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-698b15e6b7ad5303ee608606c0cabfe2a9b86205.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-06954b6bb3d8a06a773f5d2424f8993f0ee863da.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-49af6cdbf59de82d810b13f399c0b17529402aa7.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-8440f2778df67d9b00eada4d43b38a6dfcfd7c95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0-584e039634c4be40ec82444813ff5f7b04593d29.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-6b234ce3196a350f6115ec07fe41dac231528cd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-884646a699267f92341e700127c5ffa22aba567b.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-0fbae5a56bc16bc356acf5ba073f4f9ae0a31678.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-fc50e52549b66d1cac4898fae95f18ae4eaa7691.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-2d0a00bfee626a97dc35ee884ac3a8b5f0707af0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-b450d18bf3297918957feb450ee5822c2d7fe32e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-0febe96576839503ba9035a4005b15b483b8e70a.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-9f6919a4d2e1b418d86ff5d87a5e3b47cc8f9178.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-f6f9c71f04493c26efd82bb8cfab14c9f8695b0d.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-684929d2db828ed933daf810d76d04c7077311df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0-52361632ab4144f33229c2603cbec7c3699b26db.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-fba80c9e6c4fa989c8bf698779c99c89ec8d57c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-ea971153201dee1967661f1a5be968eb0c2098cf.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0-a7fd3339956c5b11da20cd82357862c8695d2d06.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-6d71f9dfab8c5a89636e9045cec4b5723dafb830.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sim\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-20ca0ba5344074fcf50b3820d1ca153b2a9621c5.jar" />
+    </item>
+    <item
+        jar="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="E:\work\ReactNative\RNFirebaseAuth\android\app\build\intermediates\pre-dexed\debug\classes-808ae73853d51d7401658845778dc42cdb8012fb.jar" />
+    </item>
+
+</items>
